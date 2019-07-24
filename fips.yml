@@ -7,5 +7,5 @@ exports:
     header-dirs: 
       - polyscope/include/
     modules:
-      polyscope: .
+      polyscope: polyscope/
 

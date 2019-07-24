@@ -12,7 +12,7 @@ endif()
 
 
 
-fips_add_subdirectory(${FIPS_PROJECT_DIR}/polyscope)
+fips_add_subdirectory(polyscope/)
 fips_libs(polyscope)
 
 
