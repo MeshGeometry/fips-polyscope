@@ -1,0 +1,11 @@
+#
+# fips-shapeop
+#
+---
+
+exports:
+    header-dirs: 
+      - openvdb/
+    modules:
+      openvdb: .
+
