@@ -7,7 +7,7 @@ if (NOT FIPS_IMPORT)
     set(FIPS_RTTI  ON CACHE BOOL "Enable C++ RTTI" FORCE)
 
     fips_setup()
-    fips_project(fips-openvdb)
+    fips_project(fips-polyscope)
 endif()
 
 
